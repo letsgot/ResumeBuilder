@@ -1,3 +1,4 @@
+Live Link :- https://resume-builder-ye1a.vercel.app/
 This is resumeBuilder application which is fully free to use.Through this , we can make any number of resumes for our interview's without any charges and limits on that.
 
 this is reactjs based application in which i used the redux for state management globally.
